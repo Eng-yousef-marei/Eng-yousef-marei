@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👤 Eng. Yousef Marei 
 
-<!--
-**Eng-yousef-marei/Eng-yousef-marei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineering Student** from Syria, dedicated to building smart solutions, developing impactful projects, and continuously sharpening my programming skills.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🎓 Studying Computer & Software Engineering.
+- 💻 Building and developing personal and academic software projects from scratch.
+- 🔍 Actively practicing problem-solving to write clean, efficient, and scalable code.
+- 🌱 Driven by continuous self-learning and exploring modern technological trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** C++, Python, HTML/CSS
+- **Tools:** Git & GitHub, VS Code
+-
