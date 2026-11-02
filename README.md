@@ -9,6 +9,8 @@ I'm a passionate **Software Engineering Student** from Syria, dedicated to build
 - 🌱 Driven by continuous self-learning and exploring modern technological trends.
 
 ### 🛠️ Tech Stack & Tools:
-- **Languages:** C++, Python, HTML/CSS
+- **Languages:** C#, C++, Python, JavaScript, HTML/CSS
+- **Databases:** SQL, Core Database Management Systems (DBMS)
+- **Core Concepts:** OOP (Object-Oriented Programming), Data Structures & Algorithms
 - **Tools:** Git & GitHub, VS Code
 -
